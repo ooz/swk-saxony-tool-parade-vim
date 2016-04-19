@@ -47,10 +47,12 @@ by Oliver Zscheyge
  * Type what you want to insert, e.g. "//", "#"
  * Hit Esc
 
-    def foobar(arg):
-        print "Do something"
-        print "Do even more"
-        print "Do most"
+```python
+def foobar(arg):
+    print "Do something"
+    print "Do even more"
+    print "Do most"
+```
 
 ## Formatting
 
