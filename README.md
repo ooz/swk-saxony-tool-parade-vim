@@ -90,10 +90,15 @@ This is a really really really really really really really really really long li
 
 ## Movement
 
-    w, b  word-wise movement
+    w, e, b word-wise movement
 
-    g     goto command
-    gv    goto last visual selection
-    gg    goto first line
-    42gg  goto line 42
-    G     goto last line
+    g       goto command
+    gv      goto last visual selection
+    gg      goto first line
+    42gg    goto line 42
+    G       goto last line
+
+## Links
+
+Vim tips
+http://rayninfo.co.uk/vimtips.html
