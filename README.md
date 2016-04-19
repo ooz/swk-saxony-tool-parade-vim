@@ -100,5 +100,6 @@ This is a really really really really really really really really really long li
 
 ## Links
 
-Vim tips
-http://rayninfo.co.uk/vimtips.html
+[Vim tips](http://rayninfo.co.uk/vimtips.html)
+
+[Using tabs](http://vim.wikia.com/wiki/Using_tab_pages)
