@@ -1,0 +1,34 @@
+# Presented tools
+
+reveal.js
+atom
+tmux
+jq
+
+Vim
+Xmonad
+
+MacOS X: 
+    Quicksilver
+    Multiclipboard
+    Witch
+Spring tool suite
+Bash scripting
+Liquibase
+cd -
+extending bash autocompletion
+Jekyll
+
+OneNote
+FreeMind
+The Pragmatic Programmer
+Vrapper for Eclipse
+PyCharm
+
+Discussion:
+JIRA
+Confluence
+Puppet
+
+Power of plain text
+VCS
